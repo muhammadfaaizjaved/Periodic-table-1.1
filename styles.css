@@ -1,0 +1,77 @@
+body {
+    background-color: rgb(68, 67, 67);
+    font-family: 'Exo', sans-serif;
+    position: relative;
+}
+
+h1 { 
+    background-color: bisque;
+    border-radius: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(146, 11, 94);
+    text-align: center;
+    border: solid 5px black;
+    padding: 20px;
+}
+
+table {
+    color: #FFFFFF;
+    cursor: pointer;
+}
+
+
+
+#a1 {
+    border: solid 5px rgb(255, 255, 255);
+    font-family: Arial; 
+    color: rgb(15, 15, 95);
+    background-color: rgb(182, 181, 255);
+}
+#a2 {
+    border: solid 5px white;
+    font-family: Arial; 
+    color: rgb(104, 22, 97);
+    background-color: rgb(211, 171, 216);
+}
+#a3 {
+    border: solid 5px white;
+    font-family: Arial; 
+    color: rgb(31, 100, 117);
+    background-color: rgb(186, 215, 223);
+}
+#a4 {
+    border: solid 5px white;
+    font-family: Arial; 
+    color: rgb(66, 10, 90);
+    background-color: rgb(217, 185, 230);
+}
+#a5 {
+    border: solid 5px white;
+    font-family: Arial; 
+    color: rgb(119, 121, 4);
+    background-color: rgb(228, 233, 197);
+}
+#a6 {
+    border: solid 5px white;
+    font-family: Arial; 
+    color: rgb(5, 70, 11);
+    background-color: rgb(188, 231, 190);
+}
+#a7 {
+    border: solid 5px white;
+    font-family: Arial; 
+    color: rgb(15, 15, 15);
+    background-color: rgb(159, 160, 159);
+}
+#a8 {
+    border: solid 5px white;
+    font-family: Arial; 
+    color: rgb(85, 51, 7);
+    background-color: rgb(248, 225, 163);
+}
+#a9 {
+    border: solid 5px white;
+    font-family: Arial; 
+    color: rgb(4, 87, 4);
+    background-color: rgb(144, 172, 144);
+}
